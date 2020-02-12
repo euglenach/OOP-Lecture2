@@ -1,5 +1,5 @@
-namespace Lecture2{
-    public class Animal{
+namespace Lecture2 {
+    public class Animal {
         
     }
 }

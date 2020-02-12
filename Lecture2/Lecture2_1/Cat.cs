@@ -1,20 +1,17 @@
 using System;
 
-namespace Lecture2{
-    public class Cat : Animal{
-        // フィールド
+namespace Lecture2 {
+    public class Cat {
         public string Name;
         public int Age;
 
-        // メソッド
-        public void Bark(){
-            Console.WriteLine("にゃーにゃー");
-        }
-        
-        // コンストラクタ
-        public Cat(string name, int age){
+        public Cat(string name,int age){
             Name = name;
             Age = age;
+        }
+        
+        public void Bark(){
+            Console.WriteLine("わんわん");
         }
     }
 }
