@@ -1,4 +1,4 @@
-# euglenach-OOP-Lecture2
+# OOP-Lecture2
 
 # 講座資料
 
